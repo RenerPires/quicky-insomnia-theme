@@ -1,0 +1,34 @@
+{
+    "name": "insomnia-plugin-theme-quicky",
+    "version": "1.0.0",
+    "description": "Insomnia Theme matching our color palette",
+    "main": "plugin.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RenerPires/quicky-insomnia-theme"
+    },
+    "keywords": [
+        "quicky",
+        "theme",
+        "insomnia",
+        "insomnia-plugin"
+    ],
+    "author": {
+        "name": "Rener Pires",
+        "url": "https://www.buymeacoffee.com/renerpires"
+    },
+    "license": "MIT",
+    "insomnia": {
+        "name": "quicky-theme",
+        "display-name": "Quicky Insomnia Theme",
+        "description": "Insomnia Theme matching our color palette",
+        "publisher": {
+            "name": "quicky",
+            "icon": ""
+        },
+        "images": {
+            "icon": "./assets/quickyLogo.svg",
+            "cover": "./assets/quickyInsoCover.png"
+        }
+    }
+}
